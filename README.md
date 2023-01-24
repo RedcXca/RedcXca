@@ -4,8 +4,9 @@ Hi! My name is **Max** (sometimes known as RedcXca), and I am a first year softw
 
 There's not much for me to write at this moment, but I sure hope I can add things here in the near future! Thanks for reading through this short bio and have a great day!
 <div align="center">
-Connect with me:
-
+  
+**Connect with me:**
+ 
 <a href="https://twitter.com/redcxca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redcxca" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_max_lu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_max_lu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/redcxca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="redcxca" height="30" width="40" /></a>
