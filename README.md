@@ -2,7 +2,7 @@ Hi! My name is **Max** (sometimes known as RedcXca), and I am a first year softw
 
 ![](https://i.imgur.com/a5mpMao.png)
 
-There's not much for me to write at this moment, but I hope I can add things here in the near future! Thanks for reading and have a great day!
+There's not much for me to write at this moment, but I sure hope I can add things here in the near future! Thanks for reading through this short bio and have a great day!
 <div align="center">
 Connect with me:
 
