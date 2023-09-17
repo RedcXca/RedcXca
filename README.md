@@ -1,4 +1,4 @@
-Hi! My name is **Max** (sometimes known as **RedcXca**), and I am a first year software engineering student at the University of Waterloo. My hobbies include [digital art](https://www.instagram.com/redcxca/), [osu! catch](https://osu.ppy.sh/users/14056601) (top 20 North America), and [rock climbing](https://media.istockphoto.com/id/1288973456/photo/stone-pebble-gray.jpg?b=1&s=170667a&w=0&k=20&c=12wq2EPR1rJ0Mw2UvWsYdwqmX6viLeDnxOcJDgIhKgE=)!
+Hi! My name is **Max** (sometimes known as **RedcXca**), and I am a second year software engineering student at the University of Waterloo. My hobbies include [digital art](https://www.instagram.com/redcxca/), [osu! catch](https://osu.ppy.sh/users/14056601) (top 10 North America), and [rock climbing](https://media.istockphoto.com/id/1288973456/photo/stone-pebble-gray.jpg?b=1&s=170667a&w=0&k=20&c=12wq2EPR1rJ0Mw2UvWsYdwqmX6viLeDnxOcJDgIhKgE=)!
 
 ![](https://i.imgur.com/a5mpMao.png)
 
