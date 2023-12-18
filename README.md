@@ -1,4 +1,4 @@
-Hi! My name is **Max** (sometimes known as **RedcXca**), and I am a second year software engineering student at the University of Waterloo. My hobbies include [digital art](https://www.instagram.com/redcxca/), [osu! catch](https://osu.ppy.sh/users/14056601) (top 10 North America), and badminton.
+Hi! My name is **Max** (sometimes known as **RedcXca**), and I am a second year software engineering student at the University of Waterloo. My hobbies include [digital art](https://www.twitter.com/redcxca/), [osu! catch](https://osu.ppy.sh/users/14056601) (top 10 North America), and badminton.
 
 ![](https://i.imgur.com/a5mpMao.png)
 
