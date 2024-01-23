@@ -2,7 +2,7 @@ Hi! My name is **Max** (sometimes known as **RedcXca**), and I am a second year 
 
 ![](https://i.imgur.com/a5mpMao.png)
 
-There's not much for me to write at this moment, but sureeeeely I can add more stuff here in the near future...
+I am working on stuff but the repos are just private!!! Wait for me to add more things here in the near future...
 <div align="center">
   
 **Connect with me:**
