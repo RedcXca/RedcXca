@@ -13,4 +13,9 @@ I am working on stuff but the repos are just private!!! Wait for me to add more 
 <a href="https://osu.ppy.sh/users/14056601" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/2048px-Osu%21_Logo_2016.svg.png" alt="redcxca" height="30" width="30" /></a>
 
 ![](https://i.ppy.sh/799e2002d67c2e0e25b114b276d2164e69b605cc/68747470733a2f2f692e6962622e636f2f4c7a66395a52312f657a6769662d636f6d2d6769662d6d616b65722d312e676966)
-Animation by [Dreamxiety!](https://osu.ppy.sh/users/13103233)
+Animation by [Dreamxiety!](https://twitter.com/Dreamxiety)
+
+## Some illustrations I've done in 2023:
+
+![Image](https://i.imgur.com/kFaBn3k.png)
+
