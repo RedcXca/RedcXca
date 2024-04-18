@@ -6,11 +6,14 @@ I am working on stuff but the repos are just private!!! Wait for me to add more 
 <div align="center">
   
 **Connect with me:**
- 
+
+
+<a href="https://i.imgur.com/1eYpfRv.png" target="blank"><image align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="redcxca" height="26" width="34" /></a>
 <a href="https://twitter.com/redcxca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redcxca" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_max_lu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_max_lu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/redcxca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="redcxca" height="30" width="40" /></a>
 <a href="https://osu.ppy.sh/users/14056601" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/2048px-Osu%21_Logo_2016.svg.png" alt="redcxca" height="30" width="30" /></a>
+
 
 ## Some illustrations I've done in 2023:
 
