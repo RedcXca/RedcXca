@@ -1,0 +1,15 @@
+<svg
+  width="32"
+  height="32"
+  viewBox="0 0 32 32"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>X</title>
+  <path
+    d="M5 4h6.7l5.2 7L23 4h2.2l-7.3 8.5L26 28h-6.7l-5.8-7.7L6.8 28H4.6l7.9-9.2L5 4Zm5.5 2H9l11.3 20h2.5L10.5 6Z"
+    fill="#111"
+    stroke="#fff"
+    stroke-width="0.75"
+    paint-order="stroke fill"
+  />
+</svg>
