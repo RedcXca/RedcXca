@@ -13,8 +13,8 @@ I am working on stuff but the repos are just private!!! Wait for me to add more 
 <a href="https://osu.ppy.sh/users/14056601" target="blank"><img align="center" src="./osu.svg" alt="redcxca" height="30" width="30" /></a>
 
 ## Some illustrations I've done in 2025:
+<img width="1777" height="1063" alt="image" src="https://github.com/user-attachments/assets/c24da6c9-601e-4d75-90ee-01ec3beacdaf" />
 
-![Image](https://i.imgur.com/kFaBn3k.png)
 
 ![](https://i.ppy.sh/799e2002d67c2e0e25b114b276d2164e69b605cc/68747470733a2f2f692e6962622e636f2f4c7a66395a52312f657a6769662d636f6d2d6769662d6d616b65722d312e676966)
 And a fun animation by [Dreamxiety](https://twitter.com/Dreamxiety) one of my artists of all time
