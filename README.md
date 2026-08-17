@@ -13,7 +13,7 @@ Hi! My name is **Max** (sometimes known as **RedcXca**), and I am a fourth-year 
 
 ## Experience
 
-I've previously worked at **Ivo**, **Geotab**, **TUQ**, and **TikTok**! I do a lot of full-stack stuff but what I love most is bringing whimsy to the products I work on and make the job more fun for others on my team =ω=b
+I've previously worked at **Ivo**, **Geotab**, **TUQ**, and **TikTok**! I do a lot of full-stack stuff but what I love most is bringing whimsy to the products I work on and making the job more fun for others on my team =ω=b
 
 ## Some illustrations I've done
 
