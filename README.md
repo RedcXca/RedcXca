@@ -15,16 +15,20 @@ Hi! My name is **Max** (sometimes known as **RedcXca**), and I am a fourth-year 
 
 I've previously worked at **Ivo**, **Geotab**, **TUQ**, and **TikTok**! I do a lot of full-stack stuff but what I love most is bringing whimsy to the products I work on and make the job more fun for others on my team =ω=b
 
+## Some illustrations I've done
+
+<img width="1777" height="1063" alt="Illustrations by Max from 2025" src="https://github.com/user-attachments/assets/c24da6c9-601e-4d75-90ee-01ec3beacdaf" />
+
 ## Some websites I've built
 
 <table>
   <tr>
     <td align="center" width="50%" valign="top">
       <a href="https://caststation.ougonkyou.art">
-        <img src="https://caststation.ougonkyou.art/assets/og-preview.webp" alt="Caststation website preview" width="100%" />
+        <img src="https://caststation.ougonkyou.art/assets/og-preview.webp" alt="channel website preview" width="100%" />
       </a>
       <br />
-      <a href="https://caststation.ougonkyou.art"><b>Caststation</b></a>
+      <a href="https://caststation.ougonkyou.art"><b>channel</b></a>
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://vey3st.art">
@@ -60,9 +64,5 @@ I've previously worked at **Ivo**, **Geotab**, **TUQ**, and **TikTok**! I do a l
     </td>
   </tr>
 </table>
-
-## Some illustrations I've done
-
-<img width="1777" height="1063" alt="Illustrations by Max from 2025" src="https://github.com/user-attachments/assets/c24da6c9-601e-4d75-90ee-01ec3beacdaf" />
 
 <p align="center"><img src="https://i.ppy.sh/799e2002d67c2e0e25b114b276d2164e69b605cc/68747470733a2f2f692e6962622e636f2f4c7a66395a52312f657a6769662d636f6d2d6769662d6d616b65722d312e676966" alt="Animation by Dreamxiety" /> And finally, a fun animation by <a href="https://twitter.com/Dreamxiety">Dreamxiety</a>, one of my favorite artists of all time.</p>
