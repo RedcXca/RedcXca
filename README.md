@@ -25,24 +25,24 @@ I've previously worked at **Ivo**, **Geotab**, **TUQ**, and **TikTok**! I do a l
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://arkilide.ougonkyou.art">
-        <img src="https://arkilide.ougonkyou.art/assets/og-preview.webp" alt="arkilide website preview" width="100%" />
+        <img src="https://arkilide.ougonkyou.art/assets/og-preview.webp" alt="Arkilide website preview" width="100%" />
       </a>
       <br />
-      <a href="https://arkilide.ougonkyou.art"><b>arkilide</b></a>
+      Arkilide
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://machimile.info">
-        <img src="https://machimile.info/assets/og-preview.webp" alt="machimile website preview" width="100%" />
+        <img src="https://machimile.info/assets/og-preview.webp" alt="Machimile website preview" width="100%" />
       </a>
       <br />
-      <a href="https://machimile.info"><b>machimile</b></a>
+      Machimile
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://www.pluviumworkshop.com">
-        <img src="https://www.pluviumworkshop.com/assets/og-preview.webp" alt="pluvium website preview" width="100%" />
+        <img src="https://www.pluviumworkshop.com/assets/og-preview.webp" alt="Pluvium Workshop website preview" width="100%" />
       </a>
       <br />
-      <a href="https://www.pluviumworkshop.com"><b>pluvium</b></a>
+      Pluvium Workshop
     </td>
   </tr>
   <tr>
@@ -51,21 +51,44 @@ I've previously worked at **Ivo**, **Geotab**, **TUQ**, and **TikTok**! I do a l
         <img src="https://fuyutsuki.org/assets/og-preview.webp" alt="fuyutsuki website preview" width="100%" />
       </a>
       <br />
-      <a href="https://fuyutsuki.org"><b>fuyutsuki</b></a>
+      fuyutsuki
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://monoco55.com">
-        <img src="https://monoco55.com/assets/og-preview.webp" alt="monoco55 website preview" width="100%" />
+        <img src="https://monoco55.com/assets/og-preview.webp" alt="Monoco55 website preview" width="100%" />
       </a>
       <br />
-      <a href="https://monoco55.com"><b>monoco55</b></a>
+      Monoco55
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://caststation.ougonkyou.art">
-        <img src="https://caststation.ougonkyou.art/assets/og-preview.webp" alt="caststation website preview" width="100%" />
+        <img src="https://caststation.ougonkyou.art/assets/og-preview.webp" alt="Caststation website preview" width="100%" />
       </a>
       <br />
-      <a href="https://caststation.ougonkyou.art"><b>caststation</b></a>
+      Caststation
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://redcx.ca">
+        <img src="https://redcx.ca/assets/og-preview.webp" alt="RedcXca website preview" width="100%" />
+      </a>
+      <br />
+      RedcXca
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://takoyoomi.art">
+        <img src="https://takoyoomi.art/assets/og-preview.webp" alt="Takoyoomi website preview" width="100%" />
+      </a>
+      <br />
+      Takoyoomi
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://saturn-illus.art">
+        <img src="https://saturn-illus.art/assets/og-preview.webp" alt="Saturn Illustration website preview" width="100%" />
+      </a>
+      <br />
+      Saturn Illustration
     </td>
   </tr>
 </table>
