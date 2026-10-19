@@ -21,76 +21,28 @@ I've previously worked at **Ivo**, **Geotab**, **TUQ**, and **TikTok**! I do a l
 
 ## Some websites I've built
 
-<table>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="https://arkilide.ougonkyou.art">
-        <img src="https://arkilide.ougonkyou.art/assets/og-preview.webp" alt="Arkilide website preview" width="100%" />
-      </a>
-      <br />
-      Arkilide
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://machimile.info">
-        <img src="https://machimile.info/assets/og-preview.webp" alt="Machimile website preview" width="100%" />
-      </a>
-      <br />
-      Machimile
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://www.pluviumworkshop.com">
-        <img src="https://www.pluviumworkshop.com/assets/og-preview.webp" alt="Pluvium Workshop website preview" width="100%" />
-      </a>
-      <br />
-      Pluvium Workshop
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="https://fuyutsuki.org">
-        <img src="https://fuyutsuki.org/assets/og-preview.webp" alt="fuyutsuki website preview" width="100%" />
-      </a>
-      <br />
-      fuyutsuki
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://monoco55.com">
-        <img src="https://monoco55.com/assets/og-preview.webp" alt="Monoco55 website preview" width="100%" />
-      </a>
-      <br />
-      Monoco55
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://caststation.ougonkyou.art">
-        <img src="https://caststation.ougonkyou.art/assets/og-preview.webp" alt="Caststation website preview" width="100%" />
-      </a>
-      <br />
-      Caststation
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="https://redcx.ca">
-        <img src="https://redcx.ca/assets/og-preview.webp" alt="RedcXca website preview" width="100%" />
-      </a>
-      <br />
-      RedcXca
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://takoyoomi.art">
-        <img src="https://takoyoomi.art/assets/og-preview.webp" alt="Takoyoomi website preview" width="100%" />
-      </a>
-      <br />
-      Takoyoomi
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://saturn-illus.art">
-        <img src="https://saturn-illus.art/assets/og-preview.webp" alt="Saturn Illustration website preview" width="100%" />
-      </a>
-      <br />
-      Saturn Illustration
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://arkilide.ougonkyou.art"><img src="https://arkilide.ougonkyou.art/assets/og-preview.webp" alt="Arkilide website preview" width="32%" /></a>
+  <a href="https://machimile.info"><img src="https://machimile.info/assets/og-preview.webp" alt="Machimile website preview" width="32%" /></a>
+  <a href="https://www.pluviumworkshop.com"><img src="https://www.pluviumworkshop.com/assets/og-preview.webp" alt="Pluvium Workshop website preview" width="32%" /></a>
+  <br />
+  <a href="https://arkilide.ougonkyou.art">Arkilide</a> · <a href="https://machimile.info">Machimile</a> · <a href="https://www.pluviumworkshop.com">Pluvium Workshop</a>
+</p>
+
+<p align="center">
+  <a href="https://fuyutsuki.org"><img src="https://fuyutsuki.org/assets/og-preview.webp" alt="fuyutsuki website preview" width="32%" /></a>
+  <a href="https://monoco55.com"><img src="https://monoco55.com/assets/og-preview.webp" alt="Monoco55 website preview" width="32%" /></a>
+  <a href="https://caststation.ougonkyou.art"><img src="https://caststation.ougonkyou.art/assets/og-preview.webp" alt="Caststation website preview" width="32%" /></a>
+  <br />
+  <a href="https://fuyutsuki.org">fuyutsuki</a> · <a href="https://monoco55.com">Monoco55</a> · <a href="https://caststation.ougonkyou.art">Caststation</a>
+</p>
+
+<p align="center">
+  <a href="https://redcx.ca"><img src="https://redcx.ca/assets/og-preview.webp" alt="RedcXca website preview" width="32%" /></a>
+  <a href="https://takoyoomi.art"><img src="https://takoyoomi.art/assets/og-preview.webp" alt="Takoyoomi website preview" width="32%" /></a>
+  <a href="https://saturn-illus.art"><img src="https://saturn-illus.art/assets/og-preview.webp" alt="Saturn Illustration website preview" width="32%" /></a>
+  <br />
+  <a href="https://redcx.ca">RedcXca</a> · <a href="https://takoyoomi.art">Takoyoomi</a> · <a href="https://saturn-illus.art">Saturn Illustration</a>
+</p>
 
 <p align="center"><img src="https://i.ppy.sh/799e2002d67c2e0e25b114b276d2164e69b605cc/68747470733a2f2f692e6962622e636f2f4c7a66395a52312f657a6769662d636f6d2d6769662d6d616b65722d312e676966" alt="Animation by Dreamxiety" /> And finally, a fun animation by <a href="https://twitter.com/Dreamxiety">Dreamxiety</a>, one of my artists of all time.</p>
